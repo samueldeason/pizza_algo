@@ -1,4 +1,11 @@
 1) Find nearby pizza places 
 2) Pick Which One 
 3) Call Establishment
-4) Place order
+4) Place order 
+5a) If order on phone provide payment details
+        -wait for delivery 
+        -tip the driver
+5b) If we upon arrival
+        -wait for delivery
+        -pay for pizza
+        -tip the driver
